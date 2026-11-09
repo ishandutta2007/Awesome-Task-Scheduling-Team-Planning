@@ -7,7 +7,7 @@
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Task-Scheduling-Team-Planning?style=social)](https://github.com/ishandutta2007/Awesome-Task-Scheduling-Team-Planning/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Task-Scheduling-Team-Planning?style=social)](https://github.com/ishandutta2007/Awesome-Task-Scheduling-Team-Planning/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
@@ -60,108 +60,108 @@ Leading commercial, cloud-hosted task scheduling and team planning platforms, so
 
 ## 🟩 Open-Source Software 🔓
 
-Self-hosted, community-driven task scheduling, sprint planning, and agile team management systems. Ranked descending by GitHub stars:
+Self-hosted, community-driven task scheduling, sprint planning, and agile team management systems. Ranked descending by GitHub_Stars:
 
 ### 1. 🪶 AppFlowy
-[![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
 **Repository:** [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)  
 **Stack:** Flutter / Rust | **License:** AGPL-3.0  
 AppFlowy is an open-source Notion alternative built with Flutter and Rust for maximum performance and local-first data privacy. It empowers teams and individuals to manage tasks, kanban boards, calendars, tables, and documents with end-to-end encryption and modular plugin architecture.  
 **Best for:** Privacy-conscious teams wanting a fast, extensible desktop and mobile workspace with Notion-style task databases.
 
 ### 2. ✈️ Plane
-[![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
 **Repository:** [makeplane/plane](https://github.com/makeplane/plane)  
 **Stack:** TypeScript / Python / Django / React | **License:** AGPL-3.0  
 Plane is a modern, open-source project and task management software designed as an agile alternative to Jira, Linear, and Asana. It provides issue tracking, cycles (sprints), modules, custom views (Kanban, List, Calendar, Gantt), analytics, and deep GitHub/GitLab integrations.  
 **Best for:** High-velocity product and engineering squads looking for a self-hosted Jira/Linear replacement with enterprise-grade agility.
 
 ### 3. 📌 Focalboard / Mattermost Boards
-[![GitHub stars](https://img.shields.io/github/stars/mattermost/focalboard?style=social&color=white)](https://github.com/mattermost/focalboard/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/mattermost/focalboard?style=social&color=white)](https://github.com/mattermost/focalboard/stargazers)  
 **Repository:** [mattermost/focalboard](https://github.com/mattermost/focalboard)  
 **Stack:** Go / TypeScript / React | **License:** MIT  
 Focalboard (integrated as Mattermost Boards) is an open-source project management solution providing Kanban boards, tables, calendars, and gallery views. It integrates directly into the Mattermost collaboration platform or operates as a standalone desktop application.  
 **Best for:** Technical squads wanting card-based project tracking embedded directly into their team chat without SaaS vendor lock-in.
 
 ### 4. ⚡ Super Productivity
-[![GitHub stars](https://img.shields.io/github/stars/johannesjo/super-productivity?style=social&color=white)](https://github.com/johannesjo/super-productivity/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/johannesjo/super-productivity?style=social&color=white)](https://github.com/johannesjo/super-productivity/stargazers)  
 **Repository:** [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)  
 **Stack:** TypeScript / Electron / Angular | **License:** MIT  
 Super Productivity is an advanced personal task manager with built-in time tracking, timeboxing, Pomodoro timer, and Eisenhower Matrix views. It syncs securely across devices (via Dropbox, Google Drive, or WebDAV) and connects directly with Jira, GitHub, and GitLab.  
 **Best for:** Developers, freelancers, and technical professionals needing offline-first timeboxing and ticketing integrations.
 
 ### 5. 📋 Wekan
-[![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
 **Repository:** [wekan/wekan](https://github.com/wekan/wekan)  
 **Stack:** Meteor / JavaScript / MongoDB | **License:** MIT  
 Wekan is a seasoned, highly configurable open-source Kanban board platform. It supports swimlanes, WIP limits, custom fields, granular access control, checklist templates, and enterprise single sign-on (SSO) via LDAP, OIDC, and SAML.  
 **Best for:** Organizations needing an enterprise-hardened, self-hosted Trello alternative with full compliance and strict board governance.
 
 ### 6. 🌐 OpenProject
-[![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
 **Repository:** [opf/openproject](https://github.com/opf/openproject)  
 **Stack:** Ruby on Rails / Angular / PostgreSQL | **License:** GPL-3.0  
 OpenProject is a leading open-source project management platform supporting classic project management, agile boards, interactive Gantt timelines, bug tracking, resource allocation, and budget tracking with rigorous data sovereignty standards.  
 **Best for:** Enterprises and public sector teams requiring traditional Gantt planning, agile sprint boards, and GDPR compliance.
 
 ### 7. 🎮 Habitica
-[![GitHub stars](https://img.shields.io/github/stars/HabitRPG/habitica?style=social&color=white)](https://github.com/HabitRPG/habitica/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/HabitRPG/habitica?style=social&color=white)](https://github.com/HabitRPG/habitica/stargazers)  
 **Repository:** [HabitRPG/habitica](https://github.com/HabitRPG/habitica)  
 **Stack:** JavaScript / Node.js / Vue.js / MongoDB | **License:** GPL-3.0  
 Habitica is a popular gamified task and habit management app that treats team goals, habits, and daily to-dos like an RPG. Team members embark on shared quests, earn rewards, and defeat monsters by completing work items on schedule.  
 **Best for:** Distributed teams and individuals looking to boost productivity through gamification, shared team quests, and accountability.
 
 ### 8. 🗂️ Planka
-[![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
 **Repository:** [plankanban/planka](https://github.com/plankanban/planka)  
 **Stack:** Node.js / React / PostgreSQL | **License:** Fair-code (AGPL-3.0 based)  
 Planka is a modern, lightweight, self-hosted Kanban board platform with real-time updates via WebSockets. It delivers clean boards, card attachments, user assignments, due dates, checklists, and effortless Docker deployment without configuration bloat.  
 **Best for:** Small teams seeking a frictionless, visually modern Trello replacement with instant multi-user synchronization.
 
 ### 9. 💡 Leantime
-[![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
 **Repository:** [Leantime/leantime](https://github.com/Leantime/leantime)  
 **Stack:** PHP / MySQL | **License:** AGPL-3.0  
 Leantime combines task and project management (Kanban, Gantt, list views) with strategic product development, OKR/goal tracking, idea boards, retrospectives, and built-in time tracking. It is specifically designed around design thinking and lean methodology principles.  
 **Best for:** Startups, cross-functional agencies, and product teams needing end-to-end project planning without expensive per-seat fees.
 
 ### 10. 🎯 Kanboard
-[![GitHub stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)  
 **Repository:** [kanboard/kanboard](https://github.com/kanboard/kanboard)  
 **Stack:** PHP / SQLite / MySQL / PostgreSQL | **License:** MIT  
 Kanboard is an ultra-minimalist, high-performance Kanban board tool focusing on simplicity and clarity. It offers automated workflow actions, Gantt charts, subtasks, swimlanes, and lightweight resource usage that can run smoothly on tiny servers or Raspberry Pi hardware.  
 **Best for:** Sysadmins and minimalist teams wanting a rock-solid, zero-maintenance self-hosted Kanban board with automated rules.
 
 ### 11. 💻 Taskbook
-[![GitHub stars](https://img.shields.io/github/stars/klaussinani/taskbook?style=social&color=white)](https://github.com/klaussinani/taskbook/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/klaussinani/taskbook?style=social&color=white)](https://github.com/klaussinani/taskbook/stargazers)  
 **Repository:** [klaussinani/taskbook](https://github.com/klaussinani/taskbook)  
 **Stack:** Node.js / CLI | **License:** MIT  
 Taskbook is a terminal-based task management and note-taking utility designed for command-line power users. It enables rapid task creation, priority flags, boards, timeline views, and archive management with minimal keystrokes.  
 **Best for:** Terminal junkies and software developers who want instantaneous task tracking right in their terminal session.
 
 ### 12. 📝 Vikunja
-[![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
 **Repository:** [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)  
 **Stack:** Go / SQLite, PostgreSQL, or MySQL | **License:** AGPL-3.0  
 Vikunja is a fast, full-featured self-hosted todo and task manager. It supports multiple task perspectives (List, Kanban, Gantt timeline, Table), subtasks, recurring schedules, file attachments, labels, CalDAV two-way synchronization, and shareable task links.  
 **Best for:** Small teams and individuals wanting a self-hosted alternative to Todoist with CalDAV sync and multiple project perspectives.
 
 ### 13. ⏱️ Donetick
-[![GitHub stars](https://img.shields.io/github/stars/donetick/donetick?style=social&color=white)](https://github.com/donetick/donetick/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/donetick/donetick?style=social&color=white)](https://github.com/donetick/donetick/stargazers)  
 **Repository:** [donetick/donetick](https://github.com/donetick/donetick)  
 **Stack:** Go / SQLite or PostgreSQL / Vue.js | **License:** AGPL-3.0  
 Donetick is a self-hosted task and chore coordination platform built for families and shared spaces. Features include dynamic interval-based recurring tasks (scheduled from completion date), past task completion logging, point scoring, and mobile push notifications.  
 **Best for:** Households, co-living spaces, and small teams needing flexible recurring scheduling and chore distribution.
 
 ### 14. 📊 Restyaboard
-[![GitHub stars](https://img.shields.io/github/stars/RestyaPlatform/board?style=social&color=white)](https://github.com/RestyaPlatform/board/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/RestyaPlatform/board?style=social&color=white)](https://github.com/RestyaPlatform/board/stargazers)  
 **Repository:** [RestyaPlatform/board](https://github.com/RestyaPlatform/board)  
 **Stack:** PHP / PostgreSQL / Backbone.js | **License:** OSL-3.0 / Commercial  
 Restyaboard is an enterprise-capable Kanban board and work management system modeled after Trello, supporting card visual customization, chat, calendar views, list views, and broad migration importers.  
 **Best for:** Teams requiring an established, self-hosted Kanban board with comprehensive Trello board migration tools.
 
 ### 15. 💬 TropaTT
-[![GitHub stars](https://img.shields.io/github/stars/Anton-Barinov/TropaTT?style=social&color=white)](https://github.com/Anton-Barinov/TropaTT/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/Anton-Barinov/TropaTT?style=social&color=white)](https://github.com/Anton-Barinov/TropaTT/stargazers)  
 **Repository:** [Anton-Barinov/TropaTT](https://github.com/Anton-Barinov/TropaTT)  
 **Stack:** PHP / MySQL | **License:** Open Source  
 TropaTT is a unified self-hosted workspace combining task management, Kanban boards, Gantt charts, CRM pipelines, team chat channels, and automated webhook workflows in a single deployable package.  

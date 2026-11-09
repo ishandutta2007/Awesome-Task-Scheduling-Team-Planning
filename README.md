@@ -1,152 +1,201 @@
-# Awesome-Task-Scheduling-Team-Planning
+# 🚀 Awesome Task Scheduling & Team Planning 📅
 
-# Awesome Task Scheduling & Team Planning
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Task-Scheduling-Team-Planning)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Task-Scheduling-Team-Planning?style=social)](https://github.com/ishandutta2007/Awesome-Task-Scheduling-Team-Planning/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
 
-> A curated list of top Task Scheduling and Team Planning platforms — both SaaS/Hosted commercial solutions and open-source alternatives for managing tasks, planning sprints, and coordinating team workloads.
-> 🌟 Star this repo if you find it useful! 🌟
+> A curated directory of top-tier Task Scheduling, Team Workload Planning, and Agile Sprint Coordination platforms — featuring leading SaaS enterprise solutions and feature-rich open-source alternatives.
 
 ---
 
 ## 📋 Table of Contents
 
-- [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [Asana](#asana)
-  - [Monday.com](#mondaycom)
-  - [Trello](#trello)
-  - [ClickUp](#clickup)
-  - [Notion](#notion)
-  - [Todoist](#todoist)
-  - [MeisterTask](#meistertask)
-- [Open-Source Software](#-open-source-software)
-  - [Vikunja](#vikunja)
-  - [Leantime](#leantime)
-  - [Planka](#planka)
-  - [Wekan](#wekan)
-  - [Super Productivity](#super-productivity)
-  - [Focalboard / Mattermost Boards](#focalboard--mattermost-boards)
-  - [TropaTT](#tropatt)
-  - [Donetick](#donetick)
-- [Comparison at a Glance](#-comparison-at-a-glance)
-- [Contributing](#-contributing)
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🟦 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [🟩 Open-Source Software](#-open-source-software)
+- [📊 Feature Comparison Matrix](#-feature-comparison-matrix)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+
+---
+
+## 📈 Sector Overview & Market Dynamics
+
+The global team collaboration and task management software market is estimated at **$21.5 billion in 2024 and projected to reach over $45 billion by 2030** (CAGR ~13.2%), propelled by hybrid work patterns, automated sprint planning, and cross-functional workload orchestration. The sector exhibits a **moderately fragmented market structure**: while enterprise mega-caps (Atlassian, Microsoft, Notion, and Monday.com) capture massive horizontal market share, deep demand for privacy, self-hosting, developer workflow integration, and customizable open-source engines sustains a highly active, competitive ecosystem of agile alternatives.
 
 ---
 
 ## 🟦 SaaS / Hosted Platforms
 
-Commercial, cloud-hosted Task Scheduling and Team Planning platforms. These are not open-source but are included as reference points for feature comparison.
+Leading commercial, cloud-hosted task scheduling and team planning platforms, sorted descending by company size (valuation / revenue):
 
-### Asana
-**Type:** Work management with tasks and projects  
-Asana provides task and project management with boards, timelines, and workload views. It is a strong choice for teams needing structured work tracking with dependencies and milestones. Its collaboration features center on tasks, comments, and project updates, making it well-suited for cross-functional team planning.
-
-### Monday.com
-**Type:** Work OS with customizable boards  
-Monday.com provides a flexible Work OS with customizable boards, automations, and dashboards. It is positioned for teams wanting to build their own workflows without coding. Its planning capabilities extend from simple task lists to complex project portfolios, with a generous free tier for small teams.
-
-### Trello
-**Type:** Simple Kanban boards  
-Trello popularized the Kanban board metaphor for personal and team task management. Its strength is simplicity: boards, lists, and cards with drag-and-drop. Power-Ups add automation, calendar views, and integrations. Best for teams wanting visual task tracking without configuration overhead.
-
-### ClickUp
-**Type:** All-in-one productivity platform  
-ClickUp bundles tasks, docs, goals, and whiteboards into a single platform, positioning itself as a replacement for multiple point tools. It offers a generous free tier and extensive customization, though the breadth of features can create configuration overhead for teams that only need lightweight task planning.
-
-### Notion
-**Type:** Flexible workspace with databases  
-Notion combines documents, databases, and light project tracking in a highly flexible workspace. Tasks can be tracked in database views (board, calendar, list) with custom properties. Its strength is freedom; the trade-off is that teams must design their own task workflows rather than following an opinionated structure.
-
-### Todoist
-**Type:** Personal and small-team task manager  
-Todoist is a widely adopted task manager known for its natural language input and cross-platform availability. It supports projects, labels, priorities, and filters, with shared projects for small-team collaboration. Best for individuals and small teams wanting frictionless task capture.
-
-### MeisterTask
-**Type:** Kanban-based task management  
-MeisterTask provides visual Kanban boards with task assignments, due dates, and checklists. It integrates with MindMeister for mind mapping and offers automation through integrations. Suited for teams wanting a clean, focused Kanban experience without enterprise complexity.
+| Platform | Company Size (Valuation / Revenue) | Starting Tier Pricing | Free Tier Limits / Trial | Primary Strengths |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Trello](https://trello.com)** (Atlassian) | **$45B+** Market Cap (Atlassian NASDAQ: TEAM) / **~$4.4B** ARR | **$5.00** /user/month (billed annually) for Standard tier | Free forever plan: Up to 10 boards per Workspace, unlimited cards, 250 Workspace command runs/month, 10MB per file attachment | Intuitive drag-and-drop Kanban boards with vast Power-Up ecosystem |
+| **[Notion](https://www.notion.so)** | **$10B+** Valuation (Private) / **~$300M+** ARR | **$10.00** /user/month (billed annually) for Plus tier | Free forever plan: Unlimited blocks for individuals, up to 10 guest collaborators, 5MB file upload limit, basic page history (7 days) | Fully customizable docs, relational database task views, and team wikis |
+| **[Monday.com](https://monday.com)** | **$9.5B+** Market Cap (NASDAQ: MNDY) / **~$950M+** ARR | **$9.00** /seat/month (billed annually, min 3 seats) for Basic tier | Free forever plan: Up to 2 seats, up to 3 boards, 200+ templates, 500MB storage | Customizable Work OS, visually rich dashboards, and no-code automations |
+| **[Asana](https://asana.com)** | **$3.2B+** Market Cap (NYSE: ASAN) / **~$650M+** ARR | **$10.99** /user/month (billed annually) for Starter tier | Free forever Personal plan: Up to 10 teammates, unlimited tasks, unlimited projects, unlimited messages/activity logs, 100MB file attachments | Structured cross-functional work management, milestones, and workload views |
+| **[ClickUp](https://clickup.com)** | **$4.0B** Valuation (Private, Series C) / **~$200M+** ARR | **$7.00** /user/month (billed annually) for Unlimited tier | Free forever plan: 100MB storage, unlimited tasks, unlimited members, two-factor authentication, 24/7 support | All-in-one productivity suite unifying tasks, docs, whiteboards, and goals |
+| **[Todoist](https://todoist.com)** (Doist) | **$100M+** Estimated Valuation (Bootstrapped) / **~$30M+** ARR | **$4.00** /user/month (billed annually) for Pro tier | Free forever plan: Up to 5 active projects, 5 collaborators per project, 5MB file uploads, 3 filter views, 1-week activity history | Fast natural language task capture and seamless personal/team task triage |
+| **[MeisterTask](https://www.meistertask.com)** (Meister) | **$50M+** Estimated Valuation (Private) / **~$15M+** ARR | **$10.50** /user/month (billed annually) for Pro tier | Free forever Basic plan: Up to 3 project boards, unlimited board members, customizable project boards, 20MB max file attachment | Clean, distraction-free Kanban boards with tight MindMeister mapping integration |
 
 ---
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven Task Scheduling and Team Planning tools. The open-source ecosystem offers a range of options from lightweight personal trackers to full project management suites.
+Self-hosted, community-driven task scheduling, sprint planning, and agile team management systems. Ranked descending by GitHub stars:
 
-### Vikunja
-**Stack:** Go / SQLite or PostgreSQL | **License:** AGPLv3  
-Vikunja is the closest thing to a self-hosted Todoist, handling personal tasks, shared projects, Kanban boards, Gantt charts, and CalDAV sync in one lightweight app [citation:12]. It supports multiple views (list, Kanban, Gantt, table), recurring tasks, labels, priorities, assignees, file attachments, and link sharing for external collaboration without accounts [citation:12]. CalDAV sync is a standout feature, turning Vikunja into a productivity hub rather than just another web app [citation:12]. It runs as a single binary with SQLite, using roughly 30 MB RAM [citation:12]. Native mobile apps are available, though early-stage [citation:4][citation:12].  
-**Best for:** Individuals and small teams wanting a lightweight, self-hosted task manager with Todoist-like features, CalDAV sync, and multiple project views.
+### 1. AppFlowy
+[![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+**Repository:** [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)  
+**Stack:** Flutter / Rust | **License:** AGPL-3.0  
+AppFlowy is an open-source Notion alternative built with Flutter and Rust for maximum performance and local-first data privacy. It empowers teams and individuals to manage tasks, kanban boards, calendars, tables, and documents with end-to-end encryption and modular plugin architecture.  
+**Best for:** Privacy-conscious teams wanting a fast, extensible desktop and mobile workspace with Notion-style task databases.
 
-### Leantime
-**Stack:** PHP / MySQL | **License:** AGPL-3.0 (OSS version)  
-Leantime is positioned as "as simple as Trello but as feature-rich as Jira" and a direct alternative to ClickUp, Monday, and Asana [citation:2]. It combines task management (Kanban, Gantt, table, list, calendar views) with project planning, goal tracking, wikis/docs, idea boards, retrospectives, time tracking, and integrations with Slack, Mattermost, and Discord [citation:2]. **All features listed are included in the OSS version** [citation:2]. The hosted SaaS version starts at $8/user/month annually [citation:5].  
-**Best for:** Teams wanting a comprehensive open-source project management suite with design thinking and lean methodology baked in, without per-user licensing for self-hosted use.
+### 2. Plane
+[![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
+**Repository:** [makeplane/plane](https://github.com/makeplane/plane)  
+**Stack:** TypeScript / Python / Django / React | **License:** AGPL-3.0  
+Plane is a modern, open-source project and task management software designed as an agile alternative to Jira, Linear, and Asana. It provides issue tracking, cycles (sprints), modules, custom views (Kanban, List, Calendar, Gantt), analytics, and deep GitHub/GitLab integrations.  
+**Best for:** High-velocity product and engineering squads looking for a self-hosted Jira/Linear replacement with enterprise-grade agility.
 
-### Planka
-**Stack:** Node.js / React / PostgreSQL | **License:** Fair-code / Proprietary  
-Planka recreates the Trello experience as a self-hosted app, with boards, lists, cards, labels, due dates, checklists, attachments, and real-time updates via WebSockets [citation:12]. The simplicity is the selling point: if your team needs a shared board without learning a project management methodology, Planka delivers with zero overhead [citation:12]. It is lightweight and deploys easily with Docker [citation:12]. **Trade-off:** Kanban only—no list, Gantt, or table views, no recurring tasks, and no API [citation:12].  
-**Best for:** Teams wanting a clean, focused Trello alternative with real-time collaboration and minimal configuration.
+### 3. Focalboard / Mattermost Boards
+[![GitHub stars](https://img.shields.io/github/stars/mattermost/focalboard?style=social&color=white)](https://github.com/mattermost/focalboard/stargazers)  
+**Repository:** [mattermost/focalboard](https://github.com/mattermost/focalboard)  
+**Stack:** Go / TypeScript / React | **License:** MIT  
+Focalboard (integrated as Mattermost Boards) is an open-source project management solution providing Kanban boards, tables, calendars, and gallery views. It integrates directly into the Mattermost collaboration platform or operates as a standalone desktop application.  
+**Best for:** Technical squads wanting card-based project tracking embedded directly into their team chat without SaaS vendor lock-in.
 
-### Wekan
-**Stack:** Meteor / MongoDB | **License:** MIT  
-Wekan is the most feature-complete open-source Trello clone, supporting Kanban boards, swimlanes, WIP limits, custom fields, and granular permissions [citation:7]. It has a massive community (21k stars) and is one of the most actively developed open-source task tools, with 18,957 commits in 90 days as of late 2026 [citation:7]. It supports LDAP, OIDC, SAML, and OAuth2 authentication.  
-**Best for:** Teams wanting a proven, feature-rich Trello alternative with swimlanes, WIP limits, and enterprise authentication options.
+### 4. Super Productivity
+[![GitHub stars](https://img.shields.io/github/stars/johannesjo/super-productivity?style=social&color=white)](https://github.com/johannesjo/super-productivity/stargazers)  
+**Repository:** [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)  
+**Stack:** TypeScript / Electron / Angular | **License:** MIT  
+Super Productivity is an advanced personal task manager with built-in time tracking, timeboxing, Pomodoro timer, and Eisenhower Matrix views. It syncs securely across devices (via Dropbox, Google Drive, or WebDAV) and connects directly with Jira, GitHub, and GitLab.  
+**Best for:** Developers, freelancers, and technical professionals needing offline-first timeboxing and ticketing integrations.
 
-### Super Productivity
-**Stack:** Electron / Angular | **License:** MIT  
-Super Productivity is a favorite task management app with integrated timeboxing and time tracking [citation:7][citation:15]. It supports cross-platform syncing through Dropbox, Google Drive, or WebDAV, and integrates with Jira, GitHub, GitLab, Redmine, and OpenProject [citation:4][citation:7]. Features include recurring tasks, reminders, daily planner view, Kanban board and Eisenhower Matrix views, and a Pomodoro timer [citation:4]. It leads the Repoly health score at 97/100 with 669 commits in 90 days and 23k stars [citation:7].  
-**Best for:** Freelancers and developers wanting a privacy-focused task manager with time tracking, timeboxing, and developer tool integrations.
+### 5. Wekan
+[![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
+**Repository:** [wekan/wekan](https://github.com/wekan/wekan)  
+**Stack:** Meteor / JavaScript / MongoDB | **License:** MIT  
+Wekan is a seasoned, highly configurable open-source Kanban board platform. It supports swimlanes, WIP limits, custom fields, granular access control, checklist templates, and enterprise single sign-on (SSO) via LDAP, OIDC, and SAML.  
+**Best for:** Organizations needing an enterprise-hardened, self-hosted Trello alternative with full compliance and strict board governance.
 
-### Focalboard / Mattermost Boards
-**Stack:** Go / TypeScript | **License:** MIT  
-Focalboard (now evolved into Mattermost Boards) is a Notion/Trello alternative for technical teams, providing board, table, calendar, and gallery views [citation:9]. The Mattermost plugin version integrates project tracking directly into the chat platform, allowing users to create cards from messages and link boards to channels [citation:9]. The standalone desktop version is also available.  
-**Best for:** Mattermost users wanting project tracking woven into their communication stack, or teams wanting a Notion-like database view without vendor lock-in.
+### 6. OpenProject
+[![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
+**Repository:** [opf/openproject](https://github.com/opf/openproject)  
+**Stack:** Ruby on Rails / Angular / PostgreSQL | **License:** GPL-3.0  
+OpenProject is a leading open-source project management platform supporting classic project management, agile boards, interactive Gantt timelines, bug tracking, resource allocation, and budget tracking with rigorous data sovereignty standards.  
+**Best for:** Enterprises and public sector teams requiring traditional Gantt planning, agile sprint boards, and GDPR compliance.
 
-### TropaTT
+### 7. Habitica
+[![GitHub stars](https://img.shields.io/github/stars/HabitRPG/habitica?style=social&color=white)](https://github.com/HabitRPG/habitica/stargazers)  
+**Repository:** [HabitRPG/habitica](https://github.com/HabitRPG/habitica)  
+**Stack:** JavaScript / Node.js / Vue.js / MongoDB | **License:** GPL-3.0  
+Habitica is a popular gamified task and habit management app that treats team goals, habits, and daily to-dos like an RPG. Team members embark on shared quests, earn rewards, and defeat monsters by completing work items on schedule.  
+**Best for:** Distributed teams and individuals looking to boost productivity through gamification, shared team quests, and accountability.
+
+### 8. Planka
+[![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
+**Repository:** [plankanban/planka](https://github.com/plankanban/planka)  
+**Stack:** Node.js / React / PostgreSQL | **License:** Fair-code (AGPL-3.0 based)  
+Planka is a modern, lightweight, self-hosted Kanban board platform with real-time updates via WebSockets. It delivers clean boards, card attachments, user assignments, due dates, checklists, and effortless Docker deployment without configuration bloat.  
+**Best for:** Small teams seeking a frictionless, visually modern Trello replacement with instant multi-user synchronization.
+
+### 9. Leantime
+[![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
+**Repository:** [Leantime/leantime](https://github.com/Leantime/leantime)  
+**Stack:** PHP / MySQL | **License:** AGPL-3.0  
+Leantime combines task and project management (Kanban, Gantt, list views) with strategic product development, OKR/goal tracking, idea boards, retrospectives, and built-in time tracking. It is specifically designed around design thinking and lean methodology principles.  
+**Best for:** Startups, cross-functional agencies, and product teams needing end-to-end project planning without expensive per-seat fees.
+
+### 10. Kanboard
+[![GitHub stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)  
+**Repository:** [kanboard/kanboard](https://github.com/kanboard/kanboard)  
+**Stack:** PHP / SQLite / MySQL / PostgreSQL | **License:** MIT  
+Kanboard is an ultra-minimalist, high-performance Kanban board tool focusing on simplicity and clarity. It offers automated workflow actions, Gantt charts, subtasks, swimlanes, and lightweight resource usage that can run smoothly on tiny servers or Raspberry Pi hardware.  
+**Best for:** Sysadmins and minimalist teams wanting a rock-solid, zero-maintenance self-hosted Kanban board with automated rules.
+
+### 11. Taskbook
+[![GitHub stars](https://img.shields.io/github/stars/klaussinani/taskbook?style=social&color=white)](https://github.com/klaussinani/taskbook/stargazers)  
+**Repository:** [klaussinani/taskbook](https://github.com/klaussinani/taskbook)  
+**Stack:** Node.js / CLI | **License:** MIT  
+Taskbook is a terminal-based task management and note-taking utility designed for command-line power users. It enables rapid task creation, priority flags, boards, timeline views, and archive management with minimal keystrokes.  
+**Best for:** Terminal junkies and software developers who want instantaneous task tracking right in their terminal session.
+
+### 12. Vikunja
+[![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
+**Repository:** [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)  
+**Stack:** Go / SQLite, PostgreSQL, or MySQL | **License:** AGPL-3.0  
+Vikunja is a fast, full-featured self-hosted todo and task manager. It supports multiple task perspectives (List, Kanban, Gantt timeline, Table), subtasks, recurring schedules, file attachments, labels, CalDAV two-way synchronization, and shareable task links.  
+**Best for:** Small teams and individuals wanting a self-hosted alternative to Todoist with CalDAV sync and multiple project perspectives.
+
+### 13. Donetick
+[![GitHub stars](https://img.shields.io/github/stars/donetick/donetick?style=social&color=white)](https://github.com/donetick/donetick/stargazers)  
+**Repository:** [donetick/donetick](https://github.com/donetick/donetick)  
+**Stack:** Go / SQLite or PostgreSQL / Vue.js | **License:** AGPL-3.0  
+Donetick is a self-hosted task and chore coordination platform built for families and shared spaces. Features include dynamic interval-based recurring tasks (scheduled from completion date), past task completion logging, point scoring, and mobile push notifications.  
+**Best for:** Households, co-living spaces, and small teams needing flexible recurring scheduling and chore distribution.
+
+### 14. Restyaboard
+[![GitHub stars](https://img.shields.io/github/stars/RestyaPlatform/board?style=social&color=white)](https://github.com/RestyaPlatform/board/stargazers)  
+**Repository:** [RestyaPlatform/board](https://github.com/RestyaPlatform/board)  
+**Stack:** PHP / PostgreSQL / Backbone.js | **License:** OSL-3.0 / Commercial  
+Restyaboard is an enterprise-capable Kanban board and work management system modeled after Trello, supporting card visual customization, chat, calendar views, list views, and broad migration importers.  
+**Best for:** Teams requiring an established, self-hosted Kanban board with comprehensive Trello board migration tools.
+
+### 15. TropaTT
+[![GitHub stars](https://img.shields.io/github/stars/Anton-Barinov/TropaTT?style=social&color=white)](https://github.com/Anton-Barinov/TropaTT/stargazers)  
+**Repository:** [Anton-Barinov/TropaTT](https://github.com/Anton-Barinov/TropaTT)  
 **Stack:** PHP / MySQL | **License:** Open Source  
-TropaTT is a free self-hosted open-source CRM, task manager, project platform, and team chat with automation, API, and AI workflows . It includes Kanban boards, Gantt charts, My Day/My Week views, workload analytics, SLA policies, and a real messenger built into the workspace (project channels, DMs, @mentions, attachments) . Automation includes workflow rules, webhooks, approval chains, and AI-assisted task decomposition .  
-**Best for:** Small to mid-sized teams wanting an all-in-one self-hosted platform combining tasks, projects, CRM, and team chat without multiple subscriptions.
-
-### Donetick
-**Stack:** Go / SQLite or PostgreSQL | **License:** AGPL-3.0  
-Donetick is a task and chore management tool for personal and family use, with advanced scheduling, flexible assignment, and group sharing [citation:7]. Its standout feature is the ability to complete tasks in the past (useful when you forget to mark something done) and recurring tasks scheduled based on completion rather than fixed time periods [citation:4]. It includes points for tasks, a calendar view, and mobile apps with push notifications [citation:4].  
-**Best for:** Households and small groups wanting a simple, self-hosted chore and task manager with flexible recurring schedules and mobile notifications.
+TropaTT is a unified self-hosted workspace combining task management, Kanban boards, Gantt charts, CRM pipelines, team chat channels, and automated webhook workflows in a single deployable package.  
+**Best for:** Small to mid-sized organizations seeking an all-in-one CRM, task tracking, and team messaging suite without multiple vendor fees.
 
 ---
 
-## 📊 Comparison at a Glance
+## 📊 Feature Comparison Matrix
 
-| Software | License | Stack | Kanban | Gantt | CalDAV | Self-Hosted | Best For |
-|----------|---------|-------|--------|-------|--------|-------------|----------|
-| **Asana** | Proprietary | Cloud | ✅ | ✅ | ❌ | ❌ | Cross-functional work management |
-| **Monday.com** | Proprietary | Cloud | ✅ | ✅ | ❌ | ❌ | Customizable Work OS |
-| **Trello** | Proprietary | Cloud | ✅ | (Power-Up) | ❌ | ❌ | Simple visual boards |
-| **ClickUp** | Proprietary | Cloud | ✅ | ✅ | ❌ | ❌ | All-in-one productivity |
-| **Todoist** | Proprietary | Cloud | (Board view) | ❌ | (Integration) | ❌ | Personal task capture |
-| **Vikunja** | AGPLv3 | Go/SQLite | ✅ | ✅ | ✅ | ✅ | Lightweight Todoist alternative |
-| **Leantime** | AGPL-3.0 | PHP/MySQL | ✅ | ✅ | ❌ | ✅ | Full PM suite without per-user fees |
-| **Planka** | Fair-code | Node.js/Postgres | ✅ | ❌ | ❌ | ✅ | Clean Trello replacement |
-| **Wekan** | MIT | Meteor/MongoDB | ✅ | ❌ | ❌ | ✅ | Feature-rich Trello clone |
-| **Super Productivity** | MIT | Electron | ✅ | ❌ | ❌ | ✅ (Desktop) | Timeboxing + dev integrations |
-| **Focalboard/Boards** | MIT | Go/TypeScript | ✅ | ❌ | ❌ | ✅ | Mattermost-integrated tasks |
-| **TropaTT** | Open Source | PHP/MySQL | ✅ | ✅ | ❌ | ✅ | All-in-one CRM + tasks + chat |
+| Software / Repo | License | Deployment | Kanban | Gantt | CalDAV / Sync | Sprints / Cycles | Primary Focus |
+| :--- | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
+| **Trello** | Proprietary | Cloud | ✅ | ⚡ Power-Up | ❌ | ⚡ Power-Up | Visual agile boards & lightweight workflows |
+| **Notion** | Proprietary | Cloud | ✅ | ⚡ Timeline | ❌ | ⚡ DB Template | Document wikis & relational task boards |
+| **Monday.com** | Proprietary | Cloud | ✅ | ✅ | ❌ | ✅ | Customizable Work OS & enterprise automations |
+| **Asana** | Proprietary | Cloud | ✅ | ✅ | ❌ | ✅ | Cross-functional milestone tracking |
+| **ClickUp** | Proprietary | Cloud | ✅ | ✅ | ⚡ Sync | ✅ | All-in-one workspace replacement |
+| **Todoist** | Proprietary | Cloud | ✅ | ❌ | ⚡ 2-way | ❌ | Quick personal capture & priority filters |
+| **MeisterTask** | Proprietary | Cloud | ✅ | ⚡ Timeline | ❌ | ❌ | Kanban boards integrated with mind maps |
+| **AppFlowy** | AGPL-3.0 | Self-Hosted / Desktop | ✅ | ⚡ Timeline | ⚡ Local | ⚡ Template | Local-first extensible Notion alternative |
+| **Plane** | AGPL-3.0 | Self-Hosted / Cloud | ✅ | ✅ | ❌ | ✅ | Modern engineering agile sprints & Jira alternative |
+| **Focalboard** | MIT | Self-Hosted / Desktop | ✅ | ❌ | ❌ | ❌ | Mattermost-integrated task database |
+| **Super Productivity**| MIT | Desktop / PWA | ✅ | ❌ | ⚡ WebDAV | ❌ | Developer timeboxing & ticket integration |
+| **Wekan** | MIT | Self-Hosted | ✅ | ❌ | ❌ | ⚡ Swimlanes | Governed enterprise Kanban clone |
+| **OpenProject** | GPL-3.0 | Self-Hosted / Cloud | ✅ | ✅ | ⚡ iCal | ✅ | Traditional Gantt + agile sprint management |
+| **Habitica** | GPL-3.0 | Self-Hosted / Cloud | ❌ | ❌ | ❌ | ❌ | Gamified habit and squad quest tracking |
+| **Planka** | Fair-code | Self-Hosted | ✅ | ❌ | ❌ | ❌ | Clean, real-time reactive Trello alternative |
+| **Leantime** | AGPL-3.0 | Self-Hosted / Cloud | ✅ | ✅ | ❌ | ✅ | Design thinking, OKRs & lean project planning |
+| **Kanboard** | MIT | Self-Hosted | ✅ | ✅ | ⚡ iCal | ❌ | Ultra-lightweight automated Kanban |
+| **Taskbook** | MIT | CLI / Local | ⚡ Board | ❌ | ❌ | ❌ | Terminal-based fast task management |
+| **Vikunja** | AGPLv3 | Self-Hosted | ✅ | ✅ | ✅ | ❌ | Lightweight Todoist clone with CalDAV |
+| **Donetick** | AGPL-3.0 | Self-Hosted | ❌ | ❌ | ❌ | ❌ | Dynamic interval chore & task scheduling |
+| **Restyaboard** | OSL-3.0 | Self-Hosted | ✅ | ⚡ App | ❌ | ❌ | Self-hosted enterprise Kanban with Trello import |
+| **TropaTT** | Open Source | Self-Hosted | ✅ | ✅ | ❌ | ❌ | Integrated CRM, task tracking, and team chat |
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you know of an open-source Task Scheduling or Team Planning tool that should be listed here, please open a pull request with:
+Contributions are warmly welcomed! If you maintain or use an open-source task scheduling, team planning, or sprint management platform that should be added:
 
-- Project name and URL
-- Brief description (1–2 sentences)
-- Stack and license
-- Why it stands out
+1. 🍴 **Fork** this repository.
+2. 🌿 **Create a branch** (`git checkout -b feature/add-new-project`).
+3. 💾 **Commit changes** (`git commit -m 'Add ProjectName to open-source tools'`).
+4. 🚀 **Push to branch** (`git push origin feature/add-new-project`).
+5. 📬 **Open a Pull Request**.
 
-Please ensure the project is actively maintained (releases within the last 12 months) and genuinely open-source. Note that the open-source ecosystem offers strong options across the spectrum: **Vikunja** for lightweight Todoist-style planning with CalDAV, **Leantime** for a comprehensive PM suite with no per-user licensing, **Planka** and **Wekan** for Trello-style boards, and **Super Productivity** for timeboxing with developer tool integrations. For teams wanting an all-in-one self-hosted platform combining tasks, CRM, and chat, **TropaTT** is a notable newer option.
+Please verify the repository is actively maintained, includes open-source licensing, and provides value for team planning, task scheduling, or sprint coordination.
 
 ---
 
 ## 📄 License
 
-This list is released under CC0 1.0 Universal (Public Domain). The software projects listed retain their respective licenses.
-
----
-
-⭐ **If this list helped you discover a useful tool, please star the repo!** ⭐
+This repository is distributed under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](LICENSE) Public Domain Dedication. All listed company products, software, and trademarks belong to their respective owners.
